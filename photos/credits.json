@@ -1,0 +1,56 @@
+[
+  {
+    "name": "opatija",
+    "title": "Opatija view.jpg",
+    "author": "Jimmy Harris",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Opatija_view.jpg",
+    "changes": "Resized, cropped, color graded for display."
+  },
+  {
+    "name": "brac",
+    "title": "Aerial view of Zlatni rat (Golden Horn) Beach in Bol, Croatia (48608813081).jpg",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Zlatni_rat_(Golden_Horn)_Beach_in_Bol,_Croatia_(48608813081).jpg",
+    "changes": "Resized, cropped, color graded for display."
+  },
+  {
+    "name": "hvar",
+    "title": "Hvar panorama south.jpg",
+    "author": "Adbar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hvar_panorama_south.jpg",
+    "changes": "Resized, cropped, color graded for display."
+  },
+  {
+    "name": "plitvice",
+    "title": "Rainbow at Waterfalls of Plitvice Lakes.jpg",
+    "author": "OrionCro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rainbow_at_Waterfalls_of_Plitvice_Lakes.jpg",
+    "changes": "Resized and cropped for display. Adapted photo retains its original license."
+  },
+  {
+    "name": "krka",
+    "title": "Skradinski buk waterfall \u2013 NP Krka \u2013 2016.jpg",
+    "author": "Skot",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skradinski_buk_waterfall_%E2%80%93_NP_Krka_%E2%80%93_2016.jpg",
+    "changes": "Resized and cropped for display. Adapted photo retains its original license."
+  },
+  {
+    "name": "velebit",
+    "title": "Senj (HR), N\u00f6rdlicher Velebit -- 2022 -- 0589.jpg",
+    "author": "Anil \u00d6ztas",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Senj_(HR),_N%C3%B6rdlicher_Velebit_--_2022_--_0589.jpg",
+    "changes": "Resized and cropped for display. Adapted photo retains its original license."
+  }
+]
